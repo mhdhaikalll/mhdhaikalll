@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, my name is Haikal!<br><br>I'm a Netcentric Computing student from UiTM Shah Alam. My forte? Web Application Development and thinking outside the box.  Not really an IT geeks but I love to explore some new technology.</p>
+<p align="left">Hi, my name is Haikal!<br><br>I'm a Netcentric Computing student from UiTM Shah Alam. My forte? Fullstack Web App Development and probably thinking outside the box.  Not really an IT geeks but I love to explore some new technology.</p>
 
 ###
 
